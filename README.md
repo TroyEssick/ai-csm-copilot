@@ -91,7 +91,7 @@ This is a personal learning and demo project. If you're working on similar tools
 
 - [LinkedIn](https://www.linkedin.com/in/troy-essick/)
 - [GitHub Portfolio](https://github.com/TroyEssick/troy-essick-portfolio)
-- 📧 troy.essick@example.com
+- 📧 troy325@hotmail.com
 
 ---
 
