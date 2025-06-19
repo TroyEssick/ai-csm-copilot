@@ -90,7 +90,7 @@ This is a personal learning and demo project. If you're working on similar tools
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/troy-essick/)
-- [GitHub Portfolio](https://github.com/TroyEssick/troy-essick-portfolio)
+- [GitHub Portfolio](https://troyessick.github.io/troy-essick-portfolio/)
 - 📧 troy325@hotmail.com
 
 ---
