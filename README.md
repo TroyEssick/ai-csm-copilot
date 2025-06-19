@@ -34,6 +34,8 @@ This project brings 17+ years of SaaS and ERP delivery experience into a new era
 
 - 🔹 [QBR Slide Generator](./prompts/qbr_slide_generator.md):  
   Auto-drafts quarterly business review content from CRM and account insights
+- 🛠️ [CRM Auto-Note Generator (Python Script)](./scripts/crm_auto_note_generator.py):  
+  Summarizes customer meeting transcripts into CRM-ready summaries.
 
 ---
 
