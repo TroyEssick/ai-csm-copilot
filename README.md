@@ -30,12 +30,20 @@ This project brings 17+ years of SaaS and ERP delivery experience into a new era
 
 ---
 
-## 🧠 Prompt Templates
+## 🧠 Prompt Templates & Tools
 
-- 🔹 [QBR Slide Generator](./prompts/qbr_slide_generator.md):  
-  Auto-drafts quarterly business review content from CRM and account insights
+- 🔹 [QBR Slide Generator Prompt](./prompts/qbr_slide_generator.md):  
+  Auto-drafts quarterly business review content from CRM and account insights.
+
 - 🛠️ [CRM Auto-Note Generator (Python Script)](./scripts/crm_auto_note_generator.py):  
   Summarizes customer meeting transcripts into CRM-ready summaries.
+
+- 🧭 [AI Co-Pilot Flowchart](./docs/ai_csm_flowchart.png):  
+  Visual overview of how the AI system powers QBRs, onboarding, CRM summaries, and health scoring.
+
+### 🔍 Flowchart Preview
+
+![AI Co-Pilot Flowchart](./docs/ai_csm_flowchart.png)
 
 ---
 
