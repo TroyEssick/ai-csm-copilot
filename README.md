@@ -30,6 +30,13 @@ This project brings 17+ years of SaaS and ERP delivery experience into a new era
 
 ---
 
+## 🧠 Prompt Templates
+
+- 🔹 [QBR Slide Generator](./prompts/qbr_slide_generator.md):  
+  Auto-drafts quarterly business review content from CRM and account insights
+
+---
+
 ## 🛠️ Tech Stack
 
 - **LLMs**: OpenAI GPT-4 (via API or prompt engineering)
