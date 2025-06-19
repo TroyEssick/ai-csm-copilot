@@ -95,5 +95,11 @@ This is a personal learning and demo project. If you're working on similar tools
 
 ---
 
+## 📄 Downloads for Recruiters
+
+- 📥 [Download Resume (PDF)](./downloads/Troy_Essick_Resume.pdf)
+
+---
+
 > “AI won't replace Customer Success — but CSMs who use AI will outperform those who don't.”
 
